@@ -11,4 +11,7 @@ This repository will hold, after the thesis defense:
 - `sessions/` — the per-turn records of all 320 analyzed sessions (code diffs, agent replies, test results)
 - `analysis/` — the scripts that produce every number, table and figure in the thesis
 
+The session records contain text produced by Cursor's models and by the simulated user. They are released for research
+use; the model outputs are not the author's to license.
+
 Until the defense, this README is the only content. Questions: williamsjordanb@gmail.com
